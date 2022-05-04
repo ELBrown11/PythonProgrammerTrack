@@ -8,6 +8,7 @@ This is a 15 course Career Track from DataCamp. By completing all the courses in
 Python libraries: numpy, pytest, pycodecodestyle, pandas, matplotlib
 
 I am using this track and the courses to sharpen and enhance my python skills and as a part of my participation  #100daysofpython and #100daysofcode.
+- Follow this journey via [Twitter](https://twitter.com/ebonib_ds/status/1517191952650878984)
 
 ## Courses
 1. Introduction to Data Science in Python 
